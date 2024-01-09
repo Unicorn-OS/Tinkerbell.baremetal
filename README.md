@@ -1,2 +1,3 @@
 # Tinkerbell.baremetal
-https://github.com/tinkerbell
+Home: https://tinkerbell.org/
+- source: https://github.com/tinkerbell
